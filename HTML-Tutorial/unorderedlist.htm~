@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<head>
+			<title>
+				Unordered list
+			</title>
+		</head>
+		<ul>
+			<li>This is ul label</li>
+			<li>Not too much definition</li>
+		</ul>
+	</body>
+</html>
