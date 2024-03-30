@@ -1,0 +1,11 @@
+Well as I know that these files are not going to work in visual studio
+I know that if you want to see your result of PHP, you need to save your file in hotdocs
+What I mean is that you need to follow these steps before you start php
+
+There are two ways.
+install php server, or install xampp
+what I did was installing xampp
+after installing xampp you need to start Mysql and Apache
+then after you started it you are able to save your php document in C:\xampp\hotdocs\Yourfile.php
+
+There you have it.
