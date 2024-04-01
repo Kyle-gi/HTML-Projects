@@ -1,0 +1,31 @@
+PHP echo and print Statements
+
+We frequently use the echo statement to display the output. There are two basic ways to get the output in PHP: 
+
+echo
+print
+
+echo and print are language constructs, and they never behave like a function. Therefore, there is no requirement for parentheses. However, both the statements can be used with or without parentheses. 
+We can use these statements to output variables or strings.
+
+Difference between echo and print
+echo
+
+    echo is a statement, which is used to display the output.
+    echo can be used with or without parentheses.
+    echo does not return any value.
+    We can pass multiple strings separated by comma (,) in echo.
+    echo is faster than print statement.
+
+print
+
+    print is also a statement, used as an alternative to echo at many times to display the output.
+    print can be used with or without parentheses.
+    print always returns an integer value, which is 1.
+    Using print, we cannot pass multiple arguments.
+    print is slower than echo statement.
+
+You can see the difference between echo and print statements with the help of the following programs.
+For Example (Check multiple arguments)
+
+You can pass multiple arguments separated by a comma (,) in echo. It will not generate any syntax error. ---> We gave examples in the php example1, example2
