@@ -1,0 +1,18 @@
+PHP Variable Scope
+
+The scope of a variable is defined as its range in the program under which it can be accessed. 
+In other words, "The scope of a variable is the portion of the program within which it is defined and can be accessed."
+
+PHP has three types of variable scopes:
+
+    Local variable
+    Global variable
+    Static variable
+
+Local variable
+
+The variables that are declared within a function are called local variables for that function. These local variables have their scope only in that particular function in which they are declared. 
+This means that these variables cannot be accessed outside the function, as they have local scope.
+
+A variable declaration outside the function with the same name is completely different from the variable declared inside the function. 
+Let's understand the local variables with the help of an example:
