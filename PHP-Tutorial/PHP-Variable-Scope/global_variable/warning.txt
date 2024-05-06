@@ -1,0 +1,4 @@
+Note: Without using the global keyword,
+if you try to access a global variable
+inside the function, it will generate
+an error that the variable is undefined.
